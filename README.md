@@ -7,7 +7,9 @@
 [![R-CMD-check](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-Las estimaciones que aquí se presentan se elaboraron con la técnica denominada Distancias Ponderadas al Cuadrado.
+El Consejo Nacional de Población (`CONAPO`) ha dado un paso significativo en el perfeccionamiento de esta métrica, adoptando una nueva metodología conocida como Distancias Ponderadas al Cuadrado (DP2) en lugar de la técnica anterior de Análisis de Componentes Principales (ACP).   
+
+    El índice de marginación es una herramienta crucial que nos permite identificar y medir el nivel de vulnerabilidad y desigualdad en distintas áreas geográficas del país. Al combinar diversos indicadores socioeconómicos, como acceso a servicios básicos, educación, empleo y calidad de vida, nos proporciona una visión completa de la realidad que enfrentan las comunidades en México.
 
 <!-- Anotaciones: start -->
 
